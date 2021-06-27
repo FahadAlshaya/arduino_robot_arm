@@ -4,13 +4,11 @@ ROS packages that can be used to plan and execute motion trajectories for a robo
 for use the packages i use Ros Melodic and ubuntu-18.04 after installing it, you need to create a workspace.
 
 run this instruction to creat your  workspace:
-'''html
-ergerg
-'''
-- '$ source /opt/ros/noetic/setup.bash'
-- '$ mkdir -p ~/catkin_ws/src'
-- '$ cd ~/catkin_ws/'
-- '$ catkin_make'
+
+- `$ source /opt/ros/noetic/setup.bash`
+- `$ mkdir -p ~/catkin_ws/src`
+- `$ cd ~/catkin_ws/`
+- `$ catkin_make`
 
 
 # Installing the package arduino_robot_arm
